@@ -15,7 +15,7 @@
 
         <ImageView
             android:id="@+id/txt_studio_name"
-            android:src="@drawable/ic_account_circle_black_24dp"
+            android:src="@drawable/ic_baseline_meeting_room_24"
             android:fontFamily="@font/bellerose"
             android:layout_gravity="center_horizontal"
             android:layout_width="90dp"

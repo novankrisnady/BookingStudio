@@ -59,6 +59,11 @@ public class BookingActivity extends AppCompatActivity {
         {
             Common.step--;
             viewPager.setCurrentItem(Common.step);
+            if (Common.step < 3) //Always enable NEXT when step 3
+            {
+                btn_next_step.setEnabled(true);
+                setColorButton();
+            }
         }
     }
     @OnClick(R.id.btn_next_step)
@@ -71,8 +76,30 @@ public class BookingActivity extends AppCompatActivity {
                 if (Common.currentStudio != null)
                     loadRoomByStudio(Common.currentStudio.getStudioId());
             }
+            else if (Common.step == 2) //Pick time slot
+            {
+                if (Common.currentRoom != null)
+                    loadTimeSlotOfRoom(Common.currentRoom.getRoomId());
+            }
+            else if (Common.step == 3) //Confirm
+            {
+                if (Common.currentTimeSlot != -1)
+                    confirmBooking();
+            }
             viewPager.setCurrentItem(Common.step);
         }
+    }
+
+    private void confirmBooking() {
+        //Send broadcast to fragment step four
+        Intent intent = new Intent(Common.KEY_CONFIRM_BOOKING);
+        localBroadcastManager.sendBroadcast(intent);
+    }
+
+    private void loadTimeSlotOfRoom(String roomId) {
+//Send Local Broadcast to Fragment step 3
+        Intent intent = new Intent(Common.KEY_DISPLAY_TIME_SLOT);
+        localBroadcastManager.sendBroadcast(intent);
     }
 
     private void loadRoomByStudio(String studioId) {
@@ -124,7 +151,14 @@ public class BookingActivity extends AppCompatActivity {
     private BroadcastReceiver buttonNextReceiver = new BroadcastReceiver() {
         @Override
         public void onReceive(Context context, Intent intent) {
-            Common.currentStudio = intent.getParcelableExtra(Common.KEY_STUDIO_STORE);
+            int step = intent.getIntExtra(Common.KEY_STEP,0);
+            if (step == 1)
+                Common.currentStudio = intent.getParcelableExtra(Common.KEY_STUDIO_STORE);
+            else if (step == 2)
+                Common.currentRoom = intent.getParcelableExtra(Common.KEY_ROOM_SELECTED);
+            else if (step == 3)
+                Common.currentTimeSlot = intent.getIntExtra(Common.KEY_TIME_SLOT, -1);
+
             btn_next_step.setEnabled(true);
             setColorButton();
         }
@@ -169,6 +203,8 @@ public class BookingActivity extends AppCompatActivity {
                 else
                     btn_previous_step.setEnabled(true);
 
+                //Set Button Disable here
+                btn_next_step.setEnabled(false);
                 setColorButton();
 
             }

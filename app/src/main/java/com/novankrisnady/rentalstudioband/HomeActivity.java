@@ -5,12 +5,10 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
 
 import android.app.AlertDialog;
-import android.content.Intent;
 import android.os.Bundle;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
-import android.widget.EditText;
 import android.widget.Toast;
 
 import com.google.android.gms.tasks.OnFailureListener;
@@ -26,7 +24,7 @@ import com.google.firebase.firestore.DocumentSnapshot;
 import com.google.firebase.firestore.FirebaseFirestore;
 import com.novankrisnady.rentalstudioband.Common.Common;
 import com.novankrisnady.rentalstudioband.Fragment.HomeFragment;
-import com.novankrisnady.rentalstudioband.Fragment.ShopFragment;
+import com.novankrisnady.rentalstudioband.Fragment.ShopingFragment;
 import com.novankrisnady.rentalstudioband.Model.User;
 
 import butterknife.BindView;
@@ -95,7 +93,7 @@ public class HomeActivity extends AppCompatActivity {
                 if (menuItem.getItemId() == R.id.action_home)
                     fragment = new HomeFragment();
                 else if (menuItem.getItemId() == R.id.action_shopping)
-                    fragment = new ShopFragment();
+                    fragment = new ShopingFragment();
 
                 return loadFragment(fragment);
             }
