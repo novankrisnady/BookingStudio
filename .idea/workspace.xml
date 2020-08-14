@@ -10,16 +10,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a18e5ca-440a-4301-a60c-e95258d52b92" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_esotericsoftware_kryo_4_0_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_esotericsoftware_minlog_1_3_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_esotericsoftware_reflectasm_1_11_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_karumi_dexter_5_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__de_javakaffee_kryo_serializers_0_40_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__devs_mulham_horizontalcalendar_horizontalcalendar_1_3_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_paperdb_paperdb_2_6_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_objenesis_objenesis_2_5_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_ow2_asm_asm_5_0_4_jar.xml" afterDir="false" />
+    <list default="true" id="3a18e5ca-440a-4301-a60c-e95258d52b92" name="Default Changelist" comment="2nd commit">
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
@@ -30,45 +21,20 @@
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_2_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_2_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_2_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_3_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/novankrisnady/rentalstudioband/Adapter/MyRoomAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/novankrisnady/rentalstudioband/Adapter/MyRoomAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/novankrisnady/rentalstudioband/BookingActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/novankrisnady/rentalstudioband/BookingActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/novankrisnady/rentalstudioband/Common/Common.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/novankrisnady/rentalstudioband/Common/Common.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/novankrisnady/rentalstudioband/Fragment/BookingStep3Fragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/novankrisnady/rentalstudioband/Fragment/BookingStep3Fragment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/novankrisnady/rentalstudioband/Fragment/BookingStep4Fragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/novankrisnady/rentalstudioband/Fragment/BookingStep4Fragment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/novankrisnady/rentalstudioband/Fragment/HomeFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/novankrisnady/rentalstudioband/Fragment/HomeFragment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/novankrisnady/rentalstudioband/Fragment/ShopFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/novankrisnady/rentalstudioband/Fragment/ShopingFragment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/novankrisnady/rentalstudioband/HomeActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/novankrisnady/rentalstudioband/HomeActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/novankrisnady/rentalstudioband/Interface/IStudioBandLoadListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/novankrisnady/rentalstudioband/Interface/IStudioBandLoadListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/novankrisnady/rentalstudioband/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/novankrisnady/rentalstudioband/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/novankrisnady/rentalstudioband/Model/Studio.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/novankrisnady/rentalstudioband/Model/Studio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_booking.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_booking.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_booking_step_four.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_booking_step_four.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_booking_step_one.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_booking_step_one.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_booking_step_three.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_booking_step_three.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_booking_step_two.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_booking_step_two.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_shop.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_shop.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/layout_room.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_room.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/menu/home_menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/menu/home_menu.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_5X_API_30" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="P795FIH6E6WSNRLJ" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -123,14 +89,14 @@
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="destination" value="DRAWABLE" />
     <property name="format" value="PNG" />
-    <property name="lastFolderRoot" value="$PROJECT_DIR$/../Asset Rental Studio Band/logo.png" />
+    <property name="lastFolderRoot" value="$USER_HOME$/OneDrive/Pictures/Profil Picture/IMG_20191124_164833.jpg" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable-hdpi" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Pictures/Profil Picture/IMG_20191124_164833.jpg" />
     <property name="method" value="Automatic" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="resolutions" value="XXHDPI&#10;MDPI&#10;XXXHDPI&#10;XHDPI&#10;HDPI" />
+    <property name="resolutions" value="XHDPI&#10;HDPI&#10;MDPI&#10;XXHDPI&#10;XXXHDPI" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="sourceResolution" value="XHDPI" />
   </component>
@@ -266,7 +232,19 @@
       <option name="presentableId" value="Default" />
       <updated>1595817364249</updated>
     </task>
+    <task id="LOCAL-00001" summary="2nd commit">
+      <created>1597241478996</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597241478996</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2nd commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="2nd commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="200" y="115" key="#PSD" timestamp="1596293266738">
@@ -293,14 +271,14 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="263" y="138" key="AndroidCreateResourceFileDialog/0.0.1366.768@0.0.1366.768" timestamp="1596968399732" />
-    <state x="79" y="0" key="CommitChangelistDialog2" timestamp="1597241469538">
+    <state x="79" y="0" key="CommitChangelistDialog2" timestamp="1597393670348">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="79" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1597241469538" />
-    <state x="463" y="138" key="FileChooserDialogImpl" timestamp="1597151264038">
+    <state x="79" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1597393670348" />
+    <state x="463" y="138" key="FileChooserDialogImpl" timestamp="1597390885245">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="463" y="138" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1597151264038" />
+    <state x="463" y="138" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1597390885245" />
     <state width="1323" height="192" key="GridCell.Tab.0.bottom" timestamp="1597151317759">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -321,6 +299,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="58" y="35" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1596871234580" />
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2" timestamp="1597241525831">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1597241525831" />
     <state x="499" y="161" key="chooseDestDirectoryDialog" timestamp="1596867969277">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -329,12 +311,17 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="92" y="92" width="1182" height="584" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1366.768@0.0.1366.768" timestamp="1596941466714" />
-    <state x="379" y="207" key="com.intellij.ide.util.TipDialog" timestamp="1597111734897">
+    <state x="379" y="207" key="com.intellij.ide.util.TipDialog" timestamp="1597387566981">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="379" y="207" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1597111734897" />
+    <state x="379" y="207" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1597387566981" />
     <state x="339" y="172" key="run.anything.popup" timestamp="1596934094084">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="339" y="172" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1596934094084" />
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1596978062042">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1596978062042" />
+  </component>
+</project>
